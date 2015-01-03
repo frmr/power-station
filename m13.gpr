@@ -1,0 +1,7 @@
+project M13 is
+
+   for Source_Dirs use ("./**");
+   for Source_Files use ("main.adb", "Power_Station.adb", "Power_Station.ads", "spark-text_io.adb", "spark-text_io.ads", "spark.ads");
+
+end M13;
+
